@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Please cite the archived software version when using these results."
+title: "PM2.5 Data Quality Audit: Coverage and Aggregation Sensitivity in Four Los Angeles County Monitors, 2024"
+type: software
+version: 1.0.0
+authors:
+  - given-names: Marcos
+    family-names: Cabral Netto
+    orcid: "https://orcid.org/0009-0009-7286-4880"
+license: MIT
+repository-code: "https://github.com/marcosjcn94-bit/pm25-data-quality-audit"
+keywords:
+  - air quality
+  - reproducibility
+  - environmental monitoring
+  - data quality
