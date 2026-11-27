@@ -4,6 +4,8 @@ How much does a monthly PM2.5 estimate change when a monitor has incomplete obse
 
 ![Sensitivity to monitor coverage and weighting](results/coverage.png)
 
+**Archived software:** [Zenodo v1.0.0 · DOI 10.5281/zenodo.24610679](https://doi.org/10.5281/zenodo.24610679)
+
 ## Reproduce locally
 
 From the repository root, use Python 3.12 and uv.
